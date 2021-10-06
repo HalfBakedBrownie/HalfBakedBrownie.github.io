@@ -1,0 +1,17 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: darkblue;
+}
+.wings {
+overflow: hidden;
+}
+
+.wings img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+}
